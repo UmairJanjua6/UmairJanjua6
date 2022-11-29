@@ -3,7 +3,7 @@
   </div>
 
 
-<h1 align="center">Hi 👋, I'm Mudassir Khan</h1>
+<h1 align="center">Hi 👋, I'm Umair Khalid</h1>
 <h3 align="center">Blockchain Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umairjanjua6&label=Profile%20views&color=0e75b6&style=flat" alt="umairjanjua6" /> </p>
